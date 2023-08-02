@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   description: 'Panel de administrador de Layqa',
 }
 
+
 export default function RootLayout({
   children,
 }: {
